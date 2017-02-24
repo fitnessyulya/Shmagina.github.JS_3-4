@@ -1,0 +1,25 @@
+.wrapper {
+    width: 600px;
+    height: 380px;
+    margin: 0 auto;
+    background: white;
+}
+
+ul {
+    list-style: none;
+}
+
+.topic{
+    text-align: center;
+    padding-top: 25px;
+}
+
+h4{
+    padding-left: 10px;
+}
+
+.btn-lg{
+    margin-top: 25px;
+    margin-left: 550px;
+    background-color: #CFE2F3;
+}
